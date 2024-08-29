@@ -1,0 +1,38 @@
+h1{
+    font-family: verdana, arial;
+}
+p{
+    font-family: "lucida console","courier new";
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#img1{
+    float: right;
+}
+h1{
+    text-align: center;
+}
+
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(92, 13, 116);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: rgb(62, 9, 110);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+.navbar li{
+    float: left;
+}
